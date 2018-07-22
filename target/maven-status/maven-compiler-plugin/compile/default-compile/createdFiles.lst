@@ -1,0 +1,6 @@
+com/howtodoinjava/rest/JerseyHelloWorldService.class
+com/howtodoinjava/rest/OrderService.class
+com/howtodoinjava/pojo/Customer.class
+com/howtodoinjava/data/CustomerList.class
+com/howtodoinjava/pojo/Response.class
+com/howtodoinjava/pojo/Order.class

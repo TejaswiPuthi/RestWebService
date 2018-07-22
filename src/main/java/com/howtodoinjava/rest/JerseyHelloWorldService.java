@@ -12,7 +12,7 @@ public class JerseyHelloWorldService
 	@Path("/{message}")
 	public Response getMsg(@PathParam("message") String msg)
 	{
-		String output = "Message requested : " + msg;
+		String output = "Message : " + msg;
 		//Simply return the parameter passed as message
 		return Response.status(200).entity(output).build();
 	}
